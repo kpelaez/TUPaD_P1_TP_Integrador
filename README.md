@@ -38,10 +38,7 @@ Este trabajo presenta una investigación práctica y aplicada sobre algoritmos f
 ### **Ejecución:**
 ```bash
 # Clonar o descargar el repositorio
-git clone [URL_DEL_REPOSITORIO]
-
-# Navegar al directorio
-cd algoritmos-busqueda-ordenamiento
+git clone (https://github.com/kpelaez/TUPaD_P1_TP_Integrador.git)
 
 # Ejecutar el programa principal
 python tp_integrador_p1.py
