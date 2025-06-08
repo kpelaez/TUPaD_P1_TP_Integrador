@@ -133,6 +133,8 @@ vector2_quick = quick_sort(vector2_quick)
 fin2_quick = time.time()
 # Fin a la toma del tiempo
 
+print("Se decide no imprimir las listas ordenadas debido a la cantidad de datos")
+
 # Comparativa de tiempos de Ordenamiento
 print("\n=====Comparativa de tiempo entre algoritmos de Ordenamiento (con grandes datos)=====")
 print(f"Tiempo de Bubble Sort: {fin2_bubble-inicio2_bubble:.6f} segundos")
@@ -175,8 +177,7 @@ print("Quick Sort: O(n log n) - Mucho más eficiente, algoritmo divide y vencer�
 print("\nBÚSQUEDA:")
 print("Búsqueda Lineal: O(n) - Funciona en cualquier lista, pero lenta")
 print("Búsqueda Binaria: O(log n) - Muy eficiente, pero requiere datos ordenados")
-
-
+print("\n\n")
 print(f"Quick Sort es ~{(fin2_bubble-inicio2_bubble)/(fin2_quick-inicio2_quick):.3f}x más rápido que Bubble Sort")
 print(f"Búsqueda Binaria usa ~{(fin2_lineal-inicio2_lineal)/(fin2_binaria-inicio2_binaria):.3f}x mas rápida que Búsqueda Lineal")
 print()
