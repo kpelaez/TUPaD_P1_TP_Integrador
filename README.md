@@ -6,7 +6,9 @@
 - **Carrera:** Tecnicatura Universitaria en Programación
 - **Modalidad:** A Distancia
 - **Fecha de Entrega:** Junio 2025
-
+- **Profesor:** Nicolás Quirós
+- **Tutora:** Carla Bustos
+- **Institución:** UTN - Universidad Tecnológica Nacional
 ---
 ## **Equipo de Desarrollo**
 
@@ -14,9 +16,6 @@
 - Lara Malena Pérez Hernández – larahernandez.edu@gmail.com
 - Kevin Antonio Pelaez Dioses – pelaezkevin@hotmail.com
 
-- **Profesor:** Nicolás Quirós
-- **Tutora:** Carla Bustos
-- **Institución:** UTN - Universidad Tecnológica Nacional
 
 ---
 
