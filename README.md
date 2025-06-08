@@ -14,9 +14,9 @@
 - Lara Malena Pérez Hernández – larahernandez.edu@gmail.com
 - Kevin Antonio Pelaez Dioses – pelaezkevin@hotmail.com
 
-**Profesor:** Nicolás Quirós
-**Tutora:** Carla Bustos
-**Institución:** UTN - Universidad Tecnológica Nacional
+- **Profesor:** Nicolás Quirós
+- **Tutora:** Carla Bustos
+- **Institución:** UTN - Universidad Tecnológica Nacional
 
 ---
 
